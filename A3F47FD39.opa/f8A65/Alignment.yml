@@ -1,0 +1,23 @@
+segment_sources:
+  IC9182EFB:
+    type: origin_type
+    relation: translation
+    language: sa
+  IF621B7FB:
+    type: origin_type
+    relation: translation
+    language: bo
+  ICFA73F88:
+    type: origin_type
+    relation: translation
+    language: zh
+  I996844BA:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  af00ae130094491489e04006e37b544f:
+    IC9182EFB: None
+    IF621B7FB: 37d35a021ea140aa8a3cc1a370d8eab0
+    ICFA73F88: 15be28bbe18b4b1fb438d35954c3c26a
+    I996844BA: 1c18c55b34d24324807c22e9e0df1cfe
